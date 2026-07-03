@@ -1,0 +1,16 @@
+{
+  "name": "practica_biblioteca-app",
+  "version": "1.0.0",
+  "description": "Asistente Escolar",
+  "license": "ISC",
+  "author": "Mikuxd",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "Algo fallo correctamente"
+  },
+  "dependencies": {
+    "electron": "^42.5.0"
+  }
+}
